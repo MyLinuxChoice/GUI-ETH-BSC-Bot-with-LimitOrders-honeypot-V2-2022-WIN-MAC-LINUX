@@ -1,7 +1,24 @@
-# PancakeSwap_BSC_LimitOrders_BOT_GUI🚀
+<h2 align="center">⭐️ GUI Bot with LimitOrders & honeypot V2-2022 (MAC WINDOWS ANDROID LINUX)⭐️ </h2>
 
+<h3 align="center">⭐️ LimitOrders Swaps for 0.77% Tax on their trading volume ⭐️</h3>
+ 
+<h3 align="center">⭐️ First SNIPER BOT for MAC & ANDROID & WINDOWS with honeypot detector ⭐️</h3>
 
 ![](https://github.com/JDCORPCOMPANY/GUI-Bot-with-LimitOrders-honeypot-V2-2022-WIN-MAC-LINUX/blob/main/JDCOPRP%20BOT.png )  
+
+[![Version](https://img.shields.io/badge/Codename-WHITEHAT-blue.svg?maxAge=259200)]()
+[![Stage](https://img.shields.io/badge/Release-Stable-brightgreen.svg)]()
+[![Build](https://img.shields.io/badge/Supported_OS-MAC-red.svg)]()
+[![Available](https://img.shields.io/badge/Available-WIN-yellow.svg?maxAge=259200)]()
+[![Documentation](https://img.shields.io/badge/BSC-SNIPER-red.svg?maxAge=259200)]()
+[![Contributions Welcome](https://img.shields.io/badge/Type-FREE-green.svg?style=flat)]()
+
+ 
+ 
+#### BSC SNIPER protocol is developed based on awesome open source research by Zcash team with the help of amazing Ethereum community
+#### Web3 Pancakeswap Sniper & honeypot detector Take Profit/StopLose bot written in python3, For ANDROID WIN MAC & LINUX
+#### Sniper bot that watches when taxes/anti buy are removed from a contract, then quick snipes, with honeypot detector, and also keybinding for fair launches
+
 
 
 PyQT5 &amp; Web3.py, Wallet Overerview, Market &amp; Limit Orders execute on bsc chain.  
