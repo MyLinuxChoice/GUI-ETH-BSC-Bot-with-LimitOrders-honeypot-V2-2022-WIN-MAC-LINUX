@@ -1,7 +1,7 @@
 # PancakeSwap_BSC_LimitOrders_BOT_GUI🚀
 
 
-![Trading-Tigers.com]( )  
+![](https://github.com/JDCORPCOMPANY/GUI-Bot-with-LimitOrders-honeypot-V2-2022-WIN-MAC-LINUX/blob/main/JDCOPRP%20BOT.png )  
 
 
 PyQT5 &amp; Web3.py, Wallet Overerview, Market &amp; Limit Orders execute on bsc chain.  
@@ -21,8 +21,8 @@ Visit our community for help or questions
 ## Install
 Clone Repo:  
 ```shell
-git clone 
-cd 
+git clone GUI-Bot-with-LimitOrders-honeypot-V2-2022-WIN-MAC-LINUX
+cd GUI-Bot-with-LimitOrders-honeypot-V2-2022-WIN-MAC-LINUX
 ```
 
 Install Requirements:  
