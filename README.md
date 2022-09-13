@@ -61,5 +61,19 @@ Install Requirements:
 python -m pip install -r requirements.txt
 ```  
 
-# Download
-### If you are not familiar with Python please have a look at [Releases](https://github.com/Trading-Tiger/PancakeSwap_BSC_LimitOrders_BOT_GUI/releases), there you can download Windows executable.
+<H3>WHAT IS UNIQUE TOKEN TRADERS</h3>
+
+- fully decentralized protocol for private transactions
+- AUTO BUY TOKEN ON LAUNCH AFTER ADD LIQUIDITY
+- Support ANDROID ,Windows 10 ,Linux and Mac OS
+- Add uniswap V3 & pancakeswap v2 
+- Added multiple DEXs
+- Force Buy and Force Sell buttons, when clicked it will buy or sell with your chosen settings (excluding limit price)
+- set manual SLIPPAGE 
+- set stop-less price
+- Speed adjustable
+- The program determines the name and decimals of the token automatically
+
+
+## Trailing-Stop-Loss:
+<img src="http://www.financial-spread-betting.com/community/wp-content/uploads/2011/11/trailing-stop-buy.jpg" height="400">
