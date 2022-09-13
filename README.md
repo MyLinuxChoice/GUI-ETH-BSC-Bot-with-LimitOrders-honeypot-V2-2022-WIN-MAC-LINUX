@@ -2,7 +2,7 @@
 
 <h3 align="center">⭐️ LimitOrders Swaps for 0.77% Tax on their trading volume ⭐️</h3>
  
-<h3 align="center">⭐️ First SNIPER BOT for MAC & ANDROID & WINDOWS with honeypot detector ⭐️</h3>
+<h3 align="center">⭐️ FIRST GUI SNIPER LimitOrders BOT for MAC & ANDROID & WINDOWS with honeypot detector ⭐️</h3>
 
 ![](https://github.com/JDCORPCOMPANY/GUI-Bot-with-LimitOrders-honeypot-V2-2022-WIN-MAC-LINUX/blob/main/JDCOPRP%20BOT.png )  
 
