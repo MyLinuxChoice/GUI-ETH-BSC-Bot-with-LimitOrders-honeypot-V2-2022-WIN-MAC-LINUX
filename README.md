@@ -4,7 +4,9 @@
 
 <h3 align="center">⭐️ FIRST GUI SNIPER LimitOrders BOT for MAC & ANDROID & WINDOWS with honeypot detector ⭐️</h3>
 
-![](https://github.com/JDCORPCOMPANY/GUI-Bot-with-LimitOrders-honeypot-V2-2022-WIN-MAC-LINUX/blob/main/JDCOPRP%20BOT.png )  
+![](https://github.com/JDCORPCOMPANY/GUI-Bot-with-LimitOrders-honeypot-V2-2022-WIN-MAC-LINUX/blob/main/JDCOPRP%20BOT.png)  
+
+
 
 [![Version](https://img.shields.io/badge/Codename-WHITEHAT-blue.svg?maxAge=259200)]()
 [![Stage](https://img.shields.io/badge/Release-Stable-brightgreen.svg)]()
