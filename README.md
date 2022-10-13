@@ -1,6 +1,6 @@
 <h2 align="center">⭐️GUI Bot ETH BSC with LimitOrders & honeypot V2-2022 (MAC WINDOWS LINUX)⭐️ </h2>
   
-<h3 align="center">⭐️ LimitOrders Swaps for 0.77% Tax on their trading volume ⭐️</h3>
+<h3 align="center">⭐️ LimitOrders Swaps on their trading volume ⭐️</h3>
 
 <h3 align="center">⭐️ FIRST GUI SNIPER LimitOrders BOT for MAC & ANDROID & WINDOWS with honeypot detector ⭐️</h3>
 
@@ -16,7 +16,7 @@
  
  
 #### BSC SNIPER protocol is developed based on awesome open source research by Zcash team with the help of amazing Ethereum community
-#### Web3 Pancakeswap Sniper & honeypot detector Take Profit/StopLose bot written in python3, For ANDROID WIN MAC & LINUX
+#### Web3 uniswap & Pancakeswap Sniper & honeypot detector Take Profit/StopLose bot written in python3, For ANDROID WIN MAC & LINUX
 #### Sniper bot that watches when taxes/anti buy are removed from a contract, then quick snipes, with honeypot detector, and also keybinding for fair launches
 
 
