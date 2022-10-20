@@ -20,7 +20,7 @@
 #### Web3 uniswap & Pancakeswap Sniper & honeypot detector Take Profit/StopLose bot written in python3, For ANDROID WIN MAC & LINUX
 #### Sniper bot that watches when taxes/anti buy are removed from a contract, then quick snipes, with honeypot detector, and also keybinding for fair launches
 
-
+ 
 
 PyQT5 &amp; Web3.py, Wallet Overerview, Market &amp; Limit Orders execute on bsc chain.  
 Low-cost limit orders executed from your system.
