@@ -4,7 +4,7 @@
 
 <h3 align="center">⭐️ FIRST GUI SNIPER LimitOrders BOT for MAC & ANDROID & WINDOWS with honeypot detector ⭐️</h3>
 
- 
+  
 ![Screenshot](https://github.com/seeememagaiin/GUI-ETH-BSC-Bot-with-LimitOrders-honeypot-V2-2022-WIN-MAC-LINUX/blob/main/JDCOPRP%20BOT.png)
  
 [![Version](https://img.shields.io/badge/Codename-WHITEHAT-blue.svg?maxAge=259200)]()
@@ -20,7 +20,7 @@
 #### Web3 uniswap & Pancakeswap Sniper & honeypot detector Take Profit/StopLose bot written in python3, For ANDROID WIN MAC & LINUX
 #### Sniper bot that watches when taxes/anti buy are removed from a contract, then quick snipes, with honeypot detector, and also keybinding for fair launches
 
- 
+  
 
 PyQT5 &amp; Web3.py, Wallet Overerview, Market &amp; Limit Orders execute on bsc chain.  
 Low-cost limit orders executed from your system.
