@@ -14,7 +14,7 @@
 [![Documentation](https://img.shields.io/badge/BSC-SNIPER-red.svg?maxAge=259200)]()
 [![Contributions Welcome](https://img.shields.io/badge/Type-FREE-green.svg?style=flat)]()
 
-
+ 
 #### BSC SNIPER protocol is developed based on awesome open source research by Zcash team with the help of amazing Ethereum community
 #### Web3 uniswap & Pancakeswap Sniper & honeypot detector Take Profit/StopLose bot written in python3, For ANDROID WIN MAC & LINUX
 #### Sniper bot that watches when taxes/anti buy are removed from a contract, then quick snipes, with honeypot detector, and also keybinding for fair launches
