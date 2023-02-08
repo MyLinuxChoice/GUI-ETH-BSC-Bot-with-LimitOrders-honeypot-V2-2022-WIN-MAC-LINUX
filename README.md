@@ -3,7 +3,7 @@
 <h3 align="center">⭐️ LimitOrders Swaps on their trading volume ⭐️</h3>
 
 <h3 align="center">⭐️ FIRST GUI SNIPER LimitOrders BOT for MAC & ANDROID & WINDOWS with honeypot detector ⭐️</h3>
-      
+       
         
 ![Screenshot](https://github.com/seeememagaiin/GUI-ETH-BSC-Bot-with-LimitOrders-honeypot-V2-2022-WIN-MAC-LINUX/blob/main/JDCOPRP%20BOT.png)
  
