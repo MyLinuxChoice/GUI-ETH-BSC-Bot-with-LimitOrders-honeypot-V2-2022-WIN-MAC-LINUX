@@ -1,5 +1,5 @@
 <h2 align="center">⭐️GUI Bot ETH BSC with LimitOrders & honeypot V2-2022 (MAC WINDOWS LINUX)⭐️ </h2>
-     
+      
 <h3 align="center">⭐️ LimitOrders Swaps on their trading volume ⭐️</h3>
 
 <h3 align="center">⭐️ FIRST GUI SNIPER LimitOrders BOT for MAC & ANDROID & WINDOWS with honeypot detector ⭐️</h3>
