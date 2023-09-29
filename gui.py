@@ -1,7 +1,5 @@
 from imports import *
 
-
-
 class WorkerSignals(QObject):
     result = pyqtSignal(bool, tuple)
 
